@@ -97,8 +97,8 @@ export const addressMetrics = [
   },
   {
     title: "Last activity date",
-    metric: generateRandomDate(new Date(2022, 0, 1), new Date()).format("MMM DD, YYYY"),
-    extra: generateRandomDate(new Date(2022, 0, 1), new Date()).fromNow(),
+    metric: generateRandomDate(new Date(2024, 0, 1), new Date()).format("MMM DD, YYYY"),
+    extra: generateRandomDate(new Date(2024, 0, 1), new Date()).fromNow(),
   },
 ];
 
